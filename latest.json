@@ -1,11 +1,11 @@
 {
-  "version": "1.1",
-  "versionCode": 2,
+  "version": "1.1.1",
+  "versionCode": 3,
   "packageName": "com.oneday.app",
-  "bytes": 12025903,
-  "sha256": "6eaab71197c0027ced161bf163cae8b99c0b0359ef643fa041dbdb5d01a20584",
-  "downloadUrl": "https://api.github.com/repos/VincentGaoHJ/one-day-downloads/releases/assets/726853356",
+  "bytes": 12029626,
+  "sha256": "0f23c9aa2e2c90f3ac31f3ffced1756ed07cb9316ad360f0a63a7efd6b185f52",
+  "downloadUrl": "https://api.github.com/repos/VincentGaoHJ/one-day-downloads/releases/assets/728011505",
   "minSdk": 24,
-  "published": "2026-11-09T09:09:49.569Z",
-  "notes": "新增设置中的版本与更新：检查版本、后台下载、取消重试、恢复下载任务及系统安装入口。安装前校验 SHA-256、包名、版本和签名。本次本地测试包未注入一键登录方案密钥，使用短信登录；真实简报链路和真机登录仍待验收。"
+  "published": "2026-11-09T15:42:38.020Z",
+  "notes": "桌面图标更新为与「问一句」同款的蓝色 #1C3F5E 和白色 ONE 字标；适配 Android 自适应图标与单色主题。保留原签名，可覆盖安装。已知问题：部分网络下「检查更新」可能长时间等待，本版尚未修复；可使用版本页手动下载。本地测试包未注入一键登录方案密钥，使用短信登录。"
 }
