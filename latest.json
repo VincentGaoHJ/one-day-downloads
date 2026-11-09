@@ -1,11 +1,11 @@
 {
-  "version": "1.1.1",
-  "versionCode": 3,
+  "version": "1.2.0",
+  "versionCode": 4,
   "packageName": "com.oneday.app",
-  "bytes": 12029626,
-  "sha256": "0f23c9aa2e2c90f3ac31f3ffced1756ed07cb9316ad360f0a63a7efd6b185f52",
-  "downloadUrl": "https://api.github.com/repos/VincentGaoHJ/one-day-downloads/releases/assets/728011505",
+  "bytes": 12426788,
+  "sha256": "aa40d542095b3259b873672eeadec5225b441d2f34e1c3cd56934d18ee6e6ab4",
+  "downloadUrl": "https://api.github.com/repos/VincentGaoHJ/one-day-downloads/releases/assets/728355096",
   "minSdk": 24,
-  "published": "2026-11-09T15:42:38.020Z",
-  "notes": "桌面图标更新为与「问一句」同款的蓝色 #1C3F5E 和白色 ONE 字标；适配 Android 自适应图标与单色主题。保留原签名，可覆盖安装。已知问题：部分网络下「检查更新」可能长时间等待，本版尚未修复；可使用版本页手动下载。本地测试包未注入一键登录方案密钥，使用短信登录。"
+  "published": "2026-11-09T17:32:34.032Z",
+  "notes": "真实收盘简报上线：行情、新闻和研报从云端同步；新增 App 后台检查与本地通知，同一天最多提醒一次。请在设置页开启通知权限；无需 EMAS 云推送。保留蓝色 ONE 图标及原签名，可覆盖安装。"
 }
